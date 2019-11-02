@@ -7,7 +7,7 @@ Repository with my useful links
 - [Public apis](https://github.com/public-apis/public-apis)
 - [Free for dev](https://github.com/ripienaar/free-for-dev)
 
-# Time management
+## Time management
 - [Tomato timer](https://tomato-timer.com/)
 - [Clockfy](https://clockify.me)
 
