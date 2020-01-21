@@ -19,3 +19,7 @@ Repository with my useful links
 ## Web UI
 - [Storybook](https://storybook.js.org/docs/basics/introduction/)
 - [Can I use](https://caniuse.com/)
+
+## Javascript
+- [Formatter](https://standardjs.com/rules.html)
+- [Some good practices](https://jstherightway.org/)
